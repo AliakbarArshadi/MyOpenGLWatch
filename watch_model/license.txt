@@ -1,0 +1,11 @@
+Model Information:
+* title:	CASIO G-Shock GM-2100-1AER
+* source:	https://sketchfab.com/3d-models/casio-g-shock-gm-2100-1aer-05332e5d43b9465c9c6cc2cc74f94a83
+* author:	EvgeniyKuzmenko (https://sketchfab.com/ekarchiviz)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CASIO G-Shock GM-2100-1AER" (https://sketchfab.com/3d-models/casio-g-shock-gm-2100-1aer-05332e5d43b9465c9c6cc2cc74f94a83) by EvgeniyKuzmenko (https://sketchfab.com/ekarchiviz) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
